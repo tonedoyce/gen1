@@ -1,0 +1,2 @@
+SCR_WIDE = 400
+SCR_HIGH = 300
